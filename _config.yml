@@ -1,13 +1,13 @@
 theme: jekyll-theme-minimal
 ## Welcome to Sam Frost's homepage!
-My name is Sam Frost and I come from Buffalo, NY. I went to Sweet Home High School and I aspire to some day work at Nintendo. I love playing video games, mostly on my Nintendo Switch, but I do plan on getting the Playstation 5 when that comes out. Im also really into music, some of my favorite bands include My Chemical Romance, Paramore, Weezer, System of a Down and Green Day. Ive been playing guitar for about two and a half years and I dont plan on stopping anytime soon!
+description: My name is Sam Frost and I come from Buffalo, NY. I went to Sweet Home High School and I aspire to some day work at Nintendo. I love playing video games, mostly on my Nintendo Switch, but I do plan on getting the Playstation 5 when that comes out. Im also really into music, some of my favorite bands include My Chemical Romance, Paramore, Weezer, System of a Down and Green Day. Ive been playing guitar for about two and a half years and I dont plan on stopping anytime soon!
 
-![Fettucini Alfredo](https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg)
-My Mom makes he best fettucini alfredo!
+picture: ![Fettucini Alfredo](https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg)
+description: My Mom makes he best fettucini alfredo!
 
-[SE Department](https://www.rit.edu/computing/department-software-engineering)
+link: [SE Department](https://www.rit.edu/computing/department-software-engineering)
 
-What Id like to learn
+list: What Id like to learn
 - How to create apps
 - How to execute code through different means other than terminal/powershell
 - Game development
